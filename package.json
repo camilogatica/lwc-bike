@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/camilogatica.lwc-ktaip6hs-fork-ktait5u2",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Z6xrcrlWwNxhkVeLaO4t --open"
+  }
+}
